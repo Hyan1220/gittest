@@ -4,7 +4,7 @@ Creating a new branch is quick.
 
 Creating a new branch is quick AND simple.
 
-add feature1
+add feature3
 
-add feature2
+
 
